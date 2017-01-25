@@ -3252,7 +3252,7 @@ blockquote {
       color: #8c979e;
       float: right; }
     .widget.widget_archive > div ul li a, .widget.widget_archive ul li a, .widget.widget_categories > div ul li a, .widget.widget_categories ul li a, .widget.widget_meta > div ul li a, .widget.widget_meta ul li a, .widget.widget_pages > div ul li a, .widget.widget_pages ul li a, .widget.widget_nav_menu > div ul li a, .widget.widget_nav_menu ul li a {
-      font-size: 14px;
+      font-size: 20px;
       font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
       color: #8c979e;
       font-weight: 400; }
