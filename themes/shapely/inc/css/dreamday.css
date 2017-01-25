@@ -1,0 +1,18 @@
+#menu li a {
+  font-family: play, Microsoft JiangHei, ·L³n¥¿¶ÂÅé;
+  color: #A50000;
+  font-size: 17px;
+  opacity: 1;
+}
+
+#menu li a:hover {
+  background-color: white;
+}
+
+.shapely-content, #archives-2 a, #recent-posts-2 a, #meta-2 a {
+  font-size: 20px;
+}
+
+.page-title-section {
+	display: none;
+}
