@@ -571,6 +571,11 @@ function shapely_get_header_logo() {
 	</a><?php
 }
 
+function shapely_get_header_follows_icon() {
+	$fb = get_template_directory_uri() . '/assets/images/fb.png'; ?>
+	<a href="https://www.facebook.com/dreamdayhk/"><img src="<?php echo esc_url($fb) ?>" alt="Facebook"></a><?php
+}
+
 /*
  * Get layout class from single page
  * then from themeoptions

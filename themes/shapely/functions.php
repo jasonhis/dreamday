@@ -271,7 +271,7 @@ function shapely_scripts() {
 
 	wp_enqueue_script( 'shapely-scripts', get_template_directory_uri() . '/js/shapely-scripts.js', array( 'jquery' ), '20160115', true );
 	
-	wp_enqueue_style('dreamday-css', get_template_directory_uri() . '/inc/css/dreamday.css', array(), '20170125' );
+	wp_enqueue_style('dreamday-css', get_template_directory_uri() . '/inc/css/dreamday.css', array(), '20170206' );
 }
 
 add_action( 'wp_enqueue_scripts', 'shapely_scripts' );

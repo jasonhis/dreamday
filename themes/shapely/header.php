@@ -33,6 +33,9 @@
 						<div class="module left site-title-container">
 							<?php shapely_get_header_logo(); ?>
 						</div>
+						<div class="module left icon">
+							Follow us on:&nbsp;<?php shapely_get_header_follows_icon(); ?>
+						</div>
 						<div class="module widget-handle mobile-toggle right visible-sm visible-xs">
 							<i class="fa fa-bars"></i>
 						</div>
